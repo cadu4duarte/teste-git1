@@ -1,3 +1,5 @@
 novo arquivo
 
 arquivo editado pelo git
+
+versão 2
