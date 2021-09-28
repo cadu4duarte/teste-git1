@@ -1,1 +1,3 @@
 novo arquivo
+
+arquivo editado pelo git
